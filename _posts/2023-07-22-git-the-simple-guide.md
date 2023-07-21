@@ -6,7 +6,6 @@ author:
 - EthanL-123
 ---
 
-# Git - 简明指南
 https://rogerdudler.github.io/git-guide/index.zh.html
 
 ## 创建新仓库
